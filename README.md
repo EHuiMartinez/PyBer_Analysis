@@ -10,7 +10,7 @@ The PyBer ride-sharing summary provides insight into the data available to revie
 
 - From this summary below, there is a lowest volume of rides in rural areas, next in suburban areas and highest ride volume in urban city areas. 
 
-- The total drivers coincide with similar proportion of total rides for rural and suburban areas, whereas there are more drivers than total number of rides.  
+- The total drivers coincide with similar proportion of total rides for rural and suburban areas, whereas there are more drivers than total number of rides in urban areas.  
 
 - Although there is a lowest number of rides in rural areas, perhaps to cover the mileage in distance and with a smaller number of drivers, the average fare per driver is highest amongst the city types.
 
